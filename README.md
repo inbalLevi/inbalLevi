@@ -12,15 +12,10 @@
 ```javascript
 const inbal = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, C, Python, Java, C++],
-  tools: [React, , Node, Azure, Docker],
+  code: [Javascript, Typescript, HTML, CSS, C, Python, Java, C++, Shell, SQL],
+  tools: [React, Terraform, Node, Azure, Docker, Linux, Azure-Devops, Ansible],
   architecture: ["microservices",  "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ 
 }
 ```
 
