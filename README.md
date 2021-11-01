@@ -13,7 +13,7 @@
 const inbal = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, C, Python, Java, C++, Shell, SQL],
-  tools: [React, Terraform, Node, Azure, Docker, Linux, Azure-Devops, Ansible],
+  tools: [React, Terraform, Node.JS, Azure, Docker, Linux, Azure-Devops, Ansible],
   architecture: ["microservices",  "design system pattern"],
  
 }
