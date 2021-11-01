@@ -1,6 +1,6 @@
 <h2> Hi, I'm Inbal levi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Graduate of a computer science at <a href="https://in.bgu.ac.il/Pages/default.aspx">Ben Gurion University of The Negev</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>student at RhinOps DevOps Bootcamp <a href="https://www.thoughtworks.com"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Graduate of a computer science at <a href="https://in.bgu.ac.il/Pages/default.aspx">Ben Gurion University of The Negev</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Student at RhinOps DevOps Bootcamp <a href="https://www.thoughtworks.com"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-inballevi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/inbal-levi-a7b3451b3/)](https://www.linkedin.com/in/inbal-levi-a7b3451b3/)
